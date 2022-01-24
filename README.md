@@ -38,6 +38,6 @@ Adopting morphologic erosion to do boundary extraction on 2-bit monocolor bmps.
 
 Using Otsu method and its imporved version using Laplacian edge information to perform global thresholding on 8-bit grey-scale bmps.
 
-(8)Complex_xx .h/.cpp
+(8)complex_xx .h/.cpp
 
 Matrix tools used in some of the above methods.
